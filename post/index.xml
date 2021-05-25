@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on My computer engineer portfolio</title>
+    <link>https://basantbhandari.github.io/Basant_Babu_Bhandari/post/</link>
+    <description>Recent content in Projects on My computer engineer portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Mar 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://basantbhandari.github.io/Basant_Babu_Bhandari/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project II: Music From BALA: A Music Generation System</title>
+      <link>https://basantbhandari.github.io/Basant_Babu_Bhandari/post/project-2/</link>
+      <pubDate>Sat, 10 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://basantbhandari.github.io/Basant_Babu_Bhandari/post/project-2/</guid>
+      <description>This project is a PyTorch implementation of C-LSTM-GRU-GAN, which was originally developed in TensorFlow. In a nutshell, C-LSTM-GRU-GAN is a GAN variant where both the Generator and the Discriminator are LSTM and GRU, with each output at each timestep from the Generator correspondingly fed into each timestep as input to the Discriminator. The goal is to train the Generator to output structured sequences, such as MIDI music which was used in the paper.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Neplali HandWritten Letter Generation Using Generative Adverserial Network</title>
+      <link>https://basantbhandari.github.io/Basant_Babu_Bhandari/post/project-1/</link>
+      <pubDate>Fri, 09 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://basantbhandari.github.io/Basant_Babu_Bhandari/post/project-1/</guid>
+      <description>The generative adversarial networks seem to work very effectively for training generative deep neural networks. Our proposed generative adversarial model that works on 36 class, each having 10,000 images, generate the Nepali Handwritten Letters that are similar to the real-life data-set of size 360,000 images. This research paper shows how a generative adversarial framework is used to tell the computer to generate Nepali Handwritten Letter. Our objective is to synthesis of Nepali Handwritten Letter using a learning framework called generative adversarial networks.</description>
+    </item>
+    
+  </channel>
+</rss>
